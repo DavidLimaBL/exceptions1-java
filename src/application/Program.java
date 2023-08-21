@@ -15,6 +15,8 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
+		System.out.println("PROJETO COPIADO");
+		
 		try {
 			System.out.print("Room number: ");
 			int number = sc.nextInt();
